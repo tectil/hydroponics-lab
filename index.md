@@ -12,10 +12,10 @@ We just got started. So make sure to come back to see our progress
 
 ### Hydroponic shelf
 
-<img src="images/IMG_3870.JPG" style="max-width: 600px" />
-<img src="images/IMG_3876.JPG" style="max-width: 400px" />
-<img src="images/IMG_3972.JPG" style="max-width: 400px"/>
-<img src="images/IMG_4006.JPG" style="max-width: 400px" />
+<img src="images/IMG_3870.JPG" style="max-width: 600px;margin-top:20px" />
+<img src="images/IMG_3876.JPG" style="max-width: 400px;margin-top:20px" />
+<img src="images/IMG_3972.JPG" style="max-width: 400px;margin-top:20px"/>
+<img src="images/IMG_4006.JPG" style="max-width: 400px;margin-top:20px" />
 
 ### Contact
 
