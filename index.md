@@ -1,37 +1,11 @@
-## Welcome to GitHub Pages
+## Tectil Hydroponics Lab
 
-You can use the [editor on GitHub](https://github.com/tectil/hydroponics-lab/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Hydroponics is a subset of hydroculture which involves growing plants without soil. Hydroponic cultures need less water and allow a high degree of automation. Hydroponics have the potential to grow plants that are even healthier than conventionally grown organic plants, if water used is filtered and crops are protected from environmental pollution. If grown decentralized close to the customer, plants can be harvested nearly just in time, keeping valuable nutrients.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+We believe, healthy, hyper fresh, organic, maintenance free and affordable nutrition is a matter of technics. This project aims to collect and share information around our main theses.
 
-### Markdown
+### Contact
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Find contact informations on [Tectil.ch](https://github.com/tectil/hydroponics-lab/edit/gh-pages/index.md)
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/tectil/hydroponics-lab/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
