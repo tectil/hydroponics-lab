@@ -10,13 +10,15 @@ With our **Hydroponoic Shelf** we try to explore different hydroponic systems.
 
 We just got started. So make sure to come back to see our progress
 
-### Hydroponic shelf - impressions
+### Hydroponic shelf
 
-
-
+<img src="images/IMG_3870.JPG" />
+<img src="images/IMG_3876.JPG" />
+<img src="images/IMG_3972.JPG" />
+<img src="images/IMG_4006.JPG" />
 
 ### Contact
 
-Find contact informations on [Tectil.ch](https://github.com/tectil/hydroponics-lab/edit/gh-pages/index.md)
+Find contact informations on [Tectil.ch](https://tectil.ch)
 
 
