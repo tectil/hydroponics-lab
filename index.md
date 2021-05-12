@@ -12,7 +12,7 @@ Different hydroponic systems are used in industrial soil plants and by hobbyist 
 
 ### Hydroponic shelf lab
 
-With our **Hydroponic Shelf Lab** we try to explore different hydroponic systems. We plan to monitor plant growth and health ditection with Tensor Flow. Apart of AI driven techniques we want to explore the potential of social gardening. We believe in the crowd.
+With our **Hydroponic Shelf Lab** we try to explore different hydroponic systems. We plan to monitor plant growth and health state with Tensor Flow. Apart of AI driven techniques we want to explore the potential of social gardening. 
 
 We just got started. So, make sure to come back to see how we progress on our journey.
 
