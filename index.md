@@ -10,11 +10,11 @@ Hydroponics is a subset of hydroculture which involves growing plants without so
 
 Different hydroponic systems are used in industrial soil plants and by hobbyist gardeners choosen by soil used and growing state of the plant. 
 
-### Hydroponic shelf
+### Hydroponic shelf lab
 
-With our **Hydroponic Shelf** we try to explore different hydroponic systems. 
+With our **Hydroponic Shelf Lab** we try to explore different hydroponic systems. We plan to monitor plant growth and health ditection with Tensor Flow. Apart of AI driven techniques we want to explore the potential of social gardening. We believe in the crowd.
 
-We just got started. So make sure to come back to see our progress.
+We just got started. So, make sure to come back to see how we progress on our journey.
 
 <img src="images/IMG_4006.JPG" style="max-width: 400px;margin-top:20px" />
 <img src="images/IMG_3870.JPG" style="max-width: 600px;margin-top:20px" />
