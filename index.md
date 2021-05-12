@@ -16,10 +16,10 @@ With our **Hydroponic Shelf Lab** we try to explore different hydroponic systems
 
 We just got started. So, make sure to come back to see how we progress on our journey.
 
-<img src="images/IMG_4006.JPG" style="max-width: 400px;margin-top:20px" />
-<img src="images/IMG_3870.JPG" style="max-width: 600px;margin-top:20px" />
-<img src="images/IMG_3876.JPG" style="max-width: 400px;margin-top:20px" />
-<img src="images/IMG_3972.JPG" style="max-width: 400px;margin-top:20px"/>
+<img src="images/IMG_4006.JPG" style="max-width: 400px;width:100%;margin-top:20px" />
+<img src="images/IMG_3870.JPG" style="max-width: 600px;width:100%;margin-top:20px" />
+<img src="images/IMG_3876.JPG" style="max-width: 400px;width:100%;margin-top:20px" />
+<img src="images/IMG_3972.JPG" style="max-width: 400px;width:100%;margin-top:20px"/>
 
 ### Contact
 
